@@ -249,8 +249,8 @@ const Ingelt = () => {
                         </div>
                     </div>
                 </div>
-                <div className='contactInf' style={{width:"400px", height:"250px",position:"absolute",marginLeft:"895px",
-                top:"350%", backgroundColor:"#17164d",color:"white",zIndex:2,borderRadius:"50px"}}>
+                <div className='contactInf' style={{width:"400px", height:"250px",position:"absolute",marginLeft:"63%",
+                top:"345%", backgroundColor:"#17164d",color:"white",zIndex:2,borderRadius:"50px"}}>
                        <div className='contactinfheading' style={{width:"400px",height:"39px"}}>
                          <h1>Contact Information</h1>
                        </div>
