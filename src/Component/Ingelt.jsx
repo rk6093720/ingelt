@@ -250,7 +250,7 @@ const Ingelt = () => {
                     </div>
                 </div>
                 <div className='contactInf' style={{width:"400px", height:"250px",position:"absolute",marginLeft:"895px",
-                top:"358%", backgroundColor:"#17164d",color:"white",zIndex:3,borderRadius:"50px"}}>
+                top:"350%", backgroundColor:"#17164d",color:"white",zIndex:2,borderRadius:"50px"}}>
                        <div className='contactinfheading' style={{width:"400px",height:"39px"}}>
                          <h1>Contact Information</h1>
                        </div>
@@ -262,7 +262,7 @@ const Ingelt = () => {
                                 <p>1234567890</p>
                             </div>
                        </div>
-                       <div className='iconofcall' style={{display:"flex",justifyContent:"space-between", width:"200px",height:"50px", marginLeft:"25px", left:"20px", top:"20px",zIndex:3}}>
+                       <div className='iconofcall' style={{display:"flex",justifyContent:"space-between", width:"200px",height:"50px", marginLeft:"25px", left:"20px", top:"20px",zIndex:2}}>
                             <div style={{width:"30px",height:"30px"}}>
                                 <img style={{width:"50px",height:"30px",marginTop:"15px"}} src="https://staticfanpage.akamaized.net/wp-content/uploads/sites/6/2020/07/gmail-1595343693513-1200x675.jpg" alt="" />
                             </div>
